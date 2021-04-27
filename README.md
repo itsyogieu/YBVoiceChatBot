@@ -12,7 +12,7 @@ Use at your own risks..
 
 ## Give your 💙
 
-Before clicking on deploy to heroku just click on fork and star just below
+
 
 <p align="center">
   <a href="https://github.com/tamilbots/tamilvcbot/fork">
