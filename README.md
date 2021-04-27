@@ -16,14 +16,14 @@ Use at your own risks..
 
 
 
-<p align="center">
-  <a href="https://github.com/tamilbots/tamilvcbot/fork">
-    <img src="https://img.shields.io/github/forks/tamilbots/tamilvcbot?label=Fork&style=social">
+
+
+   
     
-  </a>
-  <a href="https://github.com/tamilbots/tamilvcbot">
-    <img src="https://img.shields.io/github/stars/tamilbots/tamilvcbot?style=social">
-  </a>
+ 
+
+
+
 
 
 
