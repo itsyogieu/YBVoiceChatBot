@@ -1,10 +1,10 @@
-# 🎤YB Voice chat Bot🗣️
+# 🎤 𝐘𝐁 𝐕𝐨𝐢𝐜𝐞 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭 🗣️
 
 A Telegram Voice Chat Bot to Play Audio 🎶 in Voice Chats.
 
 It's recommended to use an USA number.
 
-⚠️(if your real number is suspended I'm not responsible.use at your own risks)✔️
+⚠️(If your real number is Suspended I'm not Responsible.use at your own Risk)✔️
 
 
 ❗No grauanty🤣 no waranty🤦🏻‍♂️
