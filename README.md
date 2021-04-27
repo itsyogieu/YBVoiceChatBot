@@ -2,9 +2,9 @@
 
 A Telegram User Bot to Play Audio 🎶 in Voice Chats.
 
-It's recommended to use an USA number.
+✔️It's recommended to use an USA number.
 
-⚠️(If your real number is Suspended I'm not Responsible.use at your own Risk)✔️
+⚠️(If your real number is Suspended I'm not Responsible.use at your own Risk)
 
 
 ❗No grauanty🤣 no waranty🤦🏻‍♂️
