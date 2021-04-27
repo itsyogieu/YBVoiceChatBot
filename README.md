@@ -6,11 +6,13 @@ It's recommended to use an USA number.
 
 ⚠️(if your real number is suspended I'm not responsible.use at your own risks)✔️
 
+
 ❗No grauanty🤣 no waranty🤦🏻‍♂️
+
 
 Use at your own risks..
 
-## Give your 💙
+
 
 
 
@@ -24,12 +26,12 @@ Use at your own risks..
   </a>
 </p>
 
-## How to deploy 
 
-Click the below button to watch the video tutorial on deploying
 
-<a href="https://youtu.be/ThJQYQLcSsg"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/ThJQYQLcSsg"><img src="https://img.shields.io/youtube/views/ThJQYQLcSsg?style=social">
+
+
+
+
 
 ###  GET STRING SESSION FROM REPL RUN
 
