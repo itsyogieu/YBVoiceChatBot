@@ -1,6 +1,6 @@
 # 🎤 𝐘𝐁 𝐕𝐨𝐢𝐜𝐞 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭 🗣️
 
-A Telegram Voice Chat Bot to Play Audio 🎶 in Voice Chats.
+A Telegram User Bot to Play Audio 🎶 in Voice Chats.
 
 It's recommended to use an USA number.
 
