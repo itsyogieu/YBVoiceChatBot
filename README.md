@@ -39,7 +39,7 @@ Use at your own risks..
 
 
 [![YogeshBots logo](https://telegra.ph/file/20ef20404ec303cf83b95.jpg )](https://heroku.com/deploy?template=https://github.com/TamilBots/TamilVcBot)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itsyogieu/yogievoicechatbot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/itsyogieu/ybvoicechatbot)
 
 - Enable the worker after deploy the project to Heroku
 - send `!ping`, `!uptime`, or `!sysinfo` from userbot account itself or its contacts to check if the userbot is running or not.
