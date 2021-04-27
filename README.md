@@ -2,7 +2,10 @@
 
 A Telegram Voice Chat Bot to Play music 🎶 in Voice Chats.
 
-It's recommended to use an USA number.(if your real number is suspended I'm not responsible.use at your own risks) no grauanty🤣 no waranty🤦🏻‍♂️
+It's recommended to use an USA number.(if your real number is suspended I'm not responsible.use at your own risks) 
+
+❗No grauanty🤣 no waranty🤦🏻‍♂️
+
 Use at your own risks..
 
 ## Give your 💙
