@@ -53,12 +53,12 @@ __starts with ! (exclamation mark)__
 ✯ `!mute`  mute the VC userbot,
 ✯ `!unmute`  unmute the VC userbot.
 
-✯ provided by 🤖 **[TamilBots](https://t.me/TamilBots)**
-✯ For Support 🆘 **[TamilSupport](https://t.me/TamilSupport)**"""
+✯ Provided by 🤖 **[YogeshBots](https://t.me/YogeshBots)**
+✯ For Support 🆘 **[YogeshBots](https://t.me/YogeshBots)**"""
 
-USERBOT_REPO = f"""{emoji.ROBOT} Tamil Voice Chat UserBot
-» Repository: **[GitHub](https://github.com/tamilbots/tamilvcbot)**
-» Provided by **[TamilBots](https://t.me/TamilBots)**
+USERBOT_REPO = f"""{emoji.ROBOT} YB Voice Chat Bot
+»Subscribe: **[YouTube](https://bit.ly/3ezKasi)**
+
 » License: AGPL-3.0-or-later"""
 
 
